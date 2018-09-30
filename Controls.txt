@@ -1,0 +1,25 @@
+=> Controls:
+
+LS = Freeze Scene
+RS = Toggle Freecam
+
+=> When Freecam is Enabled:
+
+Left Stick = Move
+Right Stick = Rotate
+
+Triggers = Roll
+Bumpers  = Raise/Lower Camera
+
+DPAD Left/Right = Adjust Move Speed
+DPAD Up/Down    = Adjust Rotate Speed
+
+A Button = Teleport Character to Camera
+B Button = Toggle HUD
+X Button = Reset Camera
+Y Button = Reset Camera (Roll Only)
+
+=> Notes
+
+The mod uses your Reloaded controller bindings as seen in the
+Input tab of the launcher.

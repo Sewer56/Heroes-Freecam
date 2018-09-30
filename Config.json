@@ -1,11 +1,11 @@
 {
-	"ModId": "reloaded.demos.helloworld",
-	"ModName": "Reloaded Template Mod",
-	"ModDescription": "Reloaded Template which prints \"Hello World\" to the console output on launch.",
+	"ModId": "sonicheroes.utils.freecam",
+	"ModName": "Free Camera",
+	"ModDescription": "Please press the Open Configuration button to see controls.",
 	"ModVersion": "1.0.0",
 	"ModAuthor": "Sewer56",
-	"ModSite": "https://github.com/sewer56lol/Reloaded-Mod-Loader",
-	"ModSource": "https://github.com/sewer56lol/Reloaded-Mod-Loader",
-	"ConfigurationFile": "",
+	"ModSite": "",
+	"ModSource": "",
+	"ConfigurationFile": "Controls.txt",
 	"Dependencies": []
 }

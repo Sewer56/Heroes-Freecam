@@ -91,6 +91,7 @@ namespace Reloaded_Mod_Template
         */
         #endregion Mod Loader Template Description
 
+        #region Mod Template
         /*
             Default Variables:
             These variables are automatically assigned by the mod template, you do not
@@ -114,6 +115,9 @@ namespace Reloaded_Mod_Template
         /// is contained in.
         /// </summary>
         public static string ModDirectory;
+        #endregion Mod Template
+
+        public static ReloadedController Controller;
         
         /// <summary>
         /// Your own user code starts here.
@@ -126,7 +130,7 @@ namespace Reloaded_Mod_Template
             Debugger.Launch();
             #endif
 
-            Bindings.PrintInfo("Hello World!");
+            Controller = new ReloadedController();
         }
     }
 }

@@ -8,19 +8,16 @@
 </div>
 
 
-# Introduction
-**The following is a template for Reloaded mods,** a WIP DLL Injection based Mod Loader, Mod Management System, Optional Mod SDK *(libReloaded)* among various other utilities. 
+# About This Project
 
-<div align="center">
-	<img src="https://i.imgur.com/aG6rXm9.png" width="550" align="center" />
-	<br/>
-</div>
+The following is a very simple; fixed; free camera implementation that can rotate on all three axis (it can roll!) with additional support for the following features:
 
-It is a completely free and open source public rewrite of **Heroes Mod Loader**, my original first attempt at a mod management/loader system all the way from the ground up using the C# programming language.
+- Freeze Scene
+- Toggle HUD
+- Teleport
+- Movement/Rotation Sensitivity
 
-# Table of Contents (Reloaded)
-- [Features](https://github.com/sewer56lol/Reloaded-Mod-Loader/blob/master/Documents/Features.md)
-- [User Guide](https://github.com/sewer56lol/Reloaded-Mod-Loader/blob/master/Documents/User%20Guide.md)
-- [Getting Started: Modifications](https://github.com/sewer56lol/Reloaded-Mod-Loader/blob/master/Documents/Getting%20Started%20Modifications.md)
-- [Getting Started: Programmers](https://github.com/sewer56lol/Reloaded-Mod-Loader/blob/master/Documents/Getting%20Started%20for%20Developers.md)
-- [Project Structure](https://github.com/sewer56lol/Reloaded-Mod-Loader/blob/master/Documents/Project%20Structure.md)
+As this was created for the sole purpose of taking screenshots; there are not many customization features; the controls are fixed and primarily designed to be operated using a controller with two analog sticks.
+
+# Demo
+A demo of the free camera can be found here: [YouTube](https://www.youtube.com/watch?v=UfxBN2ElmIM)
